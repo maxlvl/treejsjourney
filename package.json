@@ -1,0 +1,16 @@
+{
+  "name": "treejsjourney",
+  "version": "1.0.0",
+  "description": "Just a learning repo for three.js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.160.0",
+    "vite": "^5.0.11"
+  }
+}
